@@ -28,11 +28,11 @@ namespace DesafioAPI.Migrations
                 columns: new[] { "Id", "CategoriaId", "Cpf", "Email", "Foto", "Letra", "Nome" },
                 values: new object[,]
                 {
-                    { 1, 1, "11111111111", "allison@starter.com", "padra.png", "ALOR", "Allison" },
-                    { 2, 1, "22222222222", "clecio@starter.com", "padra.png", "CLCI", "Clécio" },
-                    { 3, 2, "33333333333", "ubiratan@starter.com", "padra.png", "UBRT", "Ubiratan" },
-                    { 4, 2, "44444444444", "joao@starter.com", "padra.png", "JOAO", "João" },
-                    { 5, 3, "55555555555", "Antonio@starter.com", "padra.png", "ANTN", "Caio" }
+                    { 1, 1, "11111111111", "allison@starter.com", "padrao.png", "ALOR", "Allison" },
+                    { 2, 1, "22222222222", "clecio@starter.com", "padrao.png", "CLCI", "Clécio" },
+                    { 3, 2, "33333333333", "ubiratan@starter.com", "padrao.png", "UBRT", "Ubiratan" },
+                    { 4, 2, "44444444444", "joao@starter.com", "padrao.png", "JOAO", "João" },
+                    { 5, 3, "55555555555", "Antonio@starter.com", "padrao.png", "ANTN", "Caio" }
                 });
 
             migrationBuilder.InsertData(

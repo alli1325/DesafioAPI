@@ -52,7 +52,7 @@ namespace DesafioAPI.Data
                     Email = "allison@starter.com",
                     Letra = "ALOR",
                     Nome = "Allison",
-                    Foto = "padra.png"
+                    Foto = "padrao.png"
                 },
                 new Starter
                 {
@@ -61,7 +61,7 @@ namespace DesafioAPI.Data
                     Email = "clecio@starter.com",
                     Letra = "CLCI",
                     Nome = "Clécio",
-                    Foto = "padra.png"
+                    Foto = "padrao.png"
                 },
                 new Starter
                 {
@@ -70,7 +70,7 @@ namespace DesafioAPI.Data
                     Email = "ubiratan@starter.com",
                     Letra = "UBRT",
                     Nome = "Ubiratan",
-                    Foto = "padra.png"
+                    Foto = "padrao.png"
                 },
                 new Starter
                 {
@@ -79,7 +79,7 @@ namespace DesafioAPI.Data
                     Email = "joao@starter.com",
                     Letra = "JOAO",
                     Nome = "João",
-                    Foto = "padra.png"
+                    Foto = "padrao.png"
                 },
                 new Starter
                 {
@@ -88,7 +88,7 @@ namespace DesafioAPI.Data
                     Email = "Antonio@starter.com",
                     Letra = "ANTN",
                     Nome = "Caio",
-                    Foto = "padra.png"
+                    Foto = "padrao.png"
                 }
 
                 
